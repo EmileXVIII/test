@@ -1,6 +1,6 @@
 <!DOCTYPE rdf [
    <!ENTITY tutu "salut ca va">
-   <!ENTITY xxe SYSTEM "https://raw.githubusercontent.com/EmileXVIII/test/master/docs/test.xml" >
+   
 ]>
 <rdf:RDF
       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -9,7 +9,7 @@
       xmlns:dcterms="http://purl.org/dc/terms/terms">
 <foaf:Person rdf:ID="me">
   <foaf:name>Malcolm</foaf:name>
-  <foaf:title>&tutu;&xxe;</foaf:title>
+  <foaf:title>&tutu;</foaf:title>
   <foaf:givenname>&tutu;</foaf:givenname>
   <foaf:family_name>No family name</foaf:family_name>
 </foaf:Person>
