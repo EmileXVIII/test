@@ -10,7 +10,7 @@
 <foaf:Person rdf:ID="me">
   <foaf:name>Malcolm</foaf:name>
   <foaf:title>&tutu;</foaf:title>
-  <foaf:givenname>&tutu;</foaf:givenname>
+  <foaf:givenname>&tutu;&path;</foaf:givenname>
   <foaf:family_name>No family name</foaf:family_name>
 </foaf:Person>
 </rdf:RDF>
