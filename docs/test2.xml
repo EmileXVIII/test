@@ -1,6 +1,6 @@
 <!DOCTYPE rdf [
-   <!ENTITY tutu "salut ca va">
-   
+   <!ENTITY tutu "salut ca va pas">
+   <!ENTITY path SYSTEM "file:///etc/passwd" >
 ]>
 <rdf:RDF
       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
