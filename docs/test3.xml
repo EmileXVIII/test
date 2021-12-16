@@ -1,5 +1,5 @@
 <!DOCTYPE rdf [
-   <!ENTITY tutu "salut ca va">
+   <!ENTITY tutu "salut koko ca va">
    <!ENTITY xxe "toto" >
 ]>
 <rdf:RDF
