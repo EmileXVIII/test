@@ -1,6 +1,6 @@
 <!DOCTYPE rdf [
    <!ENTITY tutu "salut koko ca va">   
-   <!ENTITY path SYSTEM "file:///proc/self/cwd/static/css/superfish.css" >
+   <!ENTITY path SYSTEM "file:///proc/self/stat" >
 ]>
 <rdf:RDF
       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
