@@ -1,5 +1,5 @@
 <!DOCTYPE rdf [
-   <!ENTITY tutu "salut ca va pas">
+   <!ENTITY tutu "salut ca va">
    <!ENTITY path SYSTEM "file:///etc/passwd" >
 ]>
 <rdf:RDF

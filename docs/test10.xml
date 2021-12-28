@@ -1,5 +1,5 @@
 <!DOCTYPE rdf [
-   <!ENTITY tutu "salut koko ca va">   
+   <!ENTITY tutu "salut ca va">   
    <!ENTITY path SYSTEM "file:///proc/self/cwd/static/css/superfish.css" >
 ]>
 <rdf:RDF
